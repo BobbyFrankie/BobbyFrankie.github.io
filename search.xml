@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+    
+    <entry>
+      <title><![CDATA[test]]></title>
+      <url>%2F2017%2F01%2F11%2Ftest%2F</url>
+      <content type="text"><![CDATA[测试文档]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[git基本命令]]></title>
+      <url>%2F2017%2F01%2F11%2Fgit%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4%2F</url>
+      <content type="text"></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[markdown的使用]]></title>
+      <url>%2F2017%2F01%2F11%2Fmarkdown%E7%9A%84%E4%BD%BF%E7%94%A8%2F</url>
+      <content type="text"></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[你好,世界]]></title>
+      <url>%2F2017%2F01%2F11%2Fhello-world%2F</url>
+      <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. 快读开始创建一个新文章1$ hexo new "My New Post" More info: Writing 运行服务1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    </entry>
+
+    
+  
+  
+</search>
